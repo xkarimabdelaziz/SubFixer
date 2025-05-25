@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4f5f9b04-bcf4-42ff-bdb0-356ca93e6c89)# SubFixer 🎬⏱️
+# SubFixer 🎬⏱️
 
 A web-based tool built with Python and Flask for adjusting subtitle timings in `.srt` files. SubFixer helps you synchronize subtitles that are out of sync — whether they appear too early or too late — by allowing you to shift subtitle timings forward or backward with precision.
 
